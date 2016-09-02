@@ -2,7 +2,7 @@ package br.com.mrsistemas._03.heranca;
 
 /**
  *
- * @author Marcondes Macaneiro
+ * @author Marcondes Macaneiro -  Rio do Sul
  */
 public class _01_Calculadora {
     
